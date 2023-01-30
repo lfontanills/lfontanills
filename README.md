@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 🔥 My projects 🔥
 
-- [Analyzing top posts on Reddit's r/science](github.com/lfontanills/reddit-science-analysis)
+- [Analyzing top posts on Reddit's r/science](https://github.com/lfontanills/reddit-science-analysis)
 - [Bike-share case study](github.com/lfontanills/bikeshare-case-study)
 
 🖌️ What's next for me? 🖌️
