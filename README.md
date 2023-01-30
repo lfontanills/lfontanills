@@ -15,25 +15,34 @@ Here are some ideas to get you started:
 
 ### About Me 
 
-Hi, I'm Laura 👋
+👋 Hi, I'm Laura 👋
 
 - 👩🏻‍🏫 I taught science for 7 years 
 - 🌋 My background is in Earth Science
 - 🌱 I'm transitioning to data analytics
 
-My skills and interests 💡
+💡 My skills and interests 💡
 
 - Exploratory data analysis
 - Data visualization
 - Field research and data collection
 
-My toolbox 🧰
+🧰 My toolbox 🧰
 
 - R
 - Excel
 - SQL (MySQL, BigQuery)
 - Tableau
 
-Talk to me 
+🔥 My projects 🔥
+
+- [Analyzing top posts on Reddit's r/science](github.com/lfontanills/reddit-science-analysis)
+- [Bike-share case study](github.com/lfontanills/bikeshare-case-study)
+
+🖌️ What's next for me? 🖌️
+- A fresh project in SQL
+- Learning Python
+
+💬 Talk to me 💬
 
 -- [LinkedIn](linkedin.com/in/lfontanills)
