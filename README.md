@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 🔥 My projects 🔥
 
 - [Analyzing top posts on Reddit's r/science](https://github.com/lfontanills/reddit-science-analysis)
-- [Bike-share case study](https://github.com/lfontanills/bikeshare-case-study)
+- [Bike-share case study](https://rpubs.com/lfontanills/bikeshare)
 
 🖌️ What's next for me? 🖌️
 - A fresh project in SQL
