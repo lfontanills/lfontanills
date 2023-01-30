@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 💬 Talk to me 💬
 
--- [LinkedIn](linkedin.com/in/lfontanills)
+- [LinkedIn](linkedin.com/in/lfontanills)
