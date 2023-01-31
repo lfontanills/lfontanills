@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 - 🌋 My background is in Earth Science
 - 🌱 I'm transitioning to data analytics
 
-💡 My skills and interests 💡
-
-- Exploratory data analysis
-- Data visualization
-- Field research and data collection
-
 🧰 My toolbox 🧰
 
 - R
