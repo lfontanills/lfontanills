@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 🖌️ What's next for me? 🖌️
 - A fresh project in SQL
-- Learning Python
+- Learning more Python
 
 💬 Talk to me 💬
 
