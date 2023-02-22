@@ -24,17 +24,18 @@ Here are some ideas to get you started:
 🧰 My toolbox 🧰
 
 - R
-- SQL (MySQL, BigQuery)
+- SQL (BigQuery, MySQL)
 - Excel/Google Sheets
 
 
 🔥 My projects 🔥
 
+- [Analyzing International Primary Education Expenditure since 2010] (https://github.com/lfontanills/world-bank-education)
 - [Analyzing top posts on Reddit's r/science](https://rpubs.com/lfontanills/reddit_science_report)
 - [Bike-share case study](https://rpubs.com/lfontanills/bikeshare)
 
 🖌️ What's next for me? 🖌️
-- Learning more Python
+- 🐍 Learning more Python
 
 💬 Talk to me 💬
 
