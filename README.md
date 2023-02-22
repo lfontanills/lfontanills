@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 🔥 My projects 🔥
 
-- [Analyzing International Primary Education Expenditure since 2010] (https://github.com/lfontanills/world-bank-education)
+- [Analyzing International Primary Education Expenditure since 2010](https://github.com/lfontanills/world-bank-education)
 - [Analyzing top posts on Reddit's r/science](https://rpubs.com/lfontanills/reddit_science_report)
 - [Bike-share case study](https://rpubs.com/lfontanills/bikeshare)
 
