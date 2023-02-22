@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 🧰 My toolbox 🧰
 
 - R
-- Excel
 - SQL (MySQL, BigQuery)
-- Tableau
+- Excel/Google Sheets
+
 
 🔥 My projects 🔥
 
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 - [Bike-share case study](https://rpubs.com/lfontanills/bikeshare)
 
 🖌️ What's next for me? 🖌️
-- A fresh project in SQL
 - Learning more Python
 
 💬 Talk to me 💬
