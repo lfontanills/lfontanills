@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 🔥 My projects 🔥
 
 - [Analyzing International Primary Education Expenditure since 2010](https://github.com/lfontanills/world-bank-education)
-- [Analyzing top posts on Reddit's r/science](https://rpubs.com/lfontanills/reddit_science_report)
-- [Bike-share case study](https://rpubs.com/lfontanills/bikeshare)
+- [Analyzing top posts on Reddit's r/science](https://github.com/lfontanills/reddit-science-analysis)
+- [Bike-share case study](https://github.com/lfontanills/bikeshare-case-study)
 
 🖌️ What's next for me? 🖌️
 - 🐍 Learning more Python
