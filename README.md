@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👩🏻‍🏫 I taught science for 7 years 
 - 🌋 My background is in Earth Science
-- 🌱 I'm transitioning to data analytics
+- 🌱 I'm an instructional designer
 
 🧰 My toolbox 🧰
 
